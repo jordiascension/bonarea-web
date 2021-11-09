@@ -1,0 +1,6 @@
+MyFirstServlet.class
+com\area\bonarea\model\Student.class
+MyFisServlet.class
+com\area\bonarea\model\StudentImpl.class
+com\area\bonarea\web\JAXRSConfiguration.class
+com\area\bonarea\web\resources\JavaEE8Resource.class
